@@ -19,14 +19,6 @@
 **Orientadora:**
 - Prof.ª Daniela Carvalho Monteiro Ferreira
 
-### 📖 Como Utilizar a Plataforma
-**Instruções de Acesso:**  
-
-- **Acesso à Aplicação:** Acesse a aplicação em [CineViews App](https://cineviewsapp20231205203014.azurewebsites.net/Usuarios/Login).
-- **Login de Teste:**
-   * Id: 3;
-   * Senha: 123.
-
 ### 📚 Documentação
 A documentação completa do projeto está organizada nos seguintes documentos:
 
